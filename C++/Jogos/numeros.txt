@@ -1,0 +1,11 @@
+Ternos que saíram 7 vezes
+02 18 30
+04 30 59
+14 33 36
+18 21 38
+21 30 52
+24 25 42
+29 32 38
+29 44 47
+Ternos que saíram 8 vezes
+29 38 50
